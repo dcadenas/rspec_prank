@@ -10,7 +10,7 @@ begin
     gem.homepage = "http://github.com/dcadenas/rspec_prank"
     gem.authors = ["Daniel Cadenas"]
     gem.files =  FileList["[A-Z]*", "{bin,generators,lib,spec}/**/*"]
-    
+    gem.add_dependency 'inline'
     
     # gem is a Gem::Specification... see http://www.rubygems.org/read/chapter/20 for additional settings
   end

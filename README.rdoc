@@ -1,6 +1,6 @@
 = rspec_prank
 
-Description goes here.
+RSpec + Apple Motion Sensor = Fun!
 
 == Copyright
 
