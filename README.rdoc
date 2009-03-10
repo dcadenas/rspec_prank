@@ -5,8 +5,8 @@ RSpec + Apple Motion Sensor = Fun!
 == Usage
 
 1. Get a Mac
-2. +sudo gem install dcadenas-rspec_prank+
-3. Add +require 'rspec_prank'+ in your +spec_helper.rb+.
+2. \+sudo gem install dcadenas-rspec_prank+
+3. Add \+require 'rspec_prank'+ in your \+spec_helper.rb+.
 4. Run your specs with the progress bar formatter (that's rspec's default, the list of dots)
 5. Call some teammates and tell them "why are this tests running so slow?"
 6. Say "oh, I know!", tilt your laptop right and shake it to speed up your tests and take a picture at their confused faces :p. Tilting left will make them slower, gravity in your tests!.
